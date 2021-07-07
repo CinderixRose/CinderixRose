@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CinderixRose
+- 👀 I’m interested in game development (especially RPGs)
+- 🌱 I’m currently learning Python, Javascript, and HTML and CSS
+- 💞️ I’m looking to collaborate on ... Nothing ATM
